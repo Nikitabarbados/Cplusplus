@@ -1,0 +1,3 @@
+﻿  MazeDZ.cpp
+D:\MazeDZ\MazeDZ\MazeDZ.cpp(32,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MazeDZ.vcxproj -> D:\MazeDZ\x64\Debug\MazeDZ.exe
