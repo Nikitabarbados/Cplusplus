@@ -1,0 +1,3 @@
+﻿  Console 7.cpp
+D:\Console 7\Console 7\Console 7.cpp(435,1): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Console 7.vcxproj -> D:\Console 7\x64\Debug\Console 7.exe
