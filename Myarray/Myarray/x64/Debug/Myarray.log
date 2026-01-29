@@ -1,0 +1,5 @@
+﻿  Myarray.cpp
+D:\Myarray\Myarray\myarray.h(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "Myarray.cpp")
+  
+  Myarray.vcxproj -> D:\Myarray\x64\Debug\Myarray.exe
