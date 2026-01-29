@@ -1,0 +1,8 @@
+﻿  Console 21.cpp
+D:\Console 21\Console 21\Console 21.cpp(9,10): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+D:\Console 21\Console 21\Console 21.cpp(9,10): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+D:\Console 21\Console 21\Console 21.cpp(10,10): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+D:\Console 21\Console 21\Console 21.cpp(10,10): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+D:\Console 21\Console 21\Console 21.cpp(11,10): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+D:\Console 21\Console 21\Console 21.cpp(11,10): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+  Console 21.vcxproj -> D:\Console 21\x64\Debug\Console 21.exe
