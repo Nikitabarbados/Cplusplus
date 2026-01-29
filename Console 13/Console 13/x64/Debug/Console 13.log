@@ -1,0 +1,5 @@
+﻿  Console 13.cpp
+D:\Console 13\Console 13\Console 13.cpp(100,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console 13\Console 13\Console 13.cpp(108,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console 13\Console 13\Console 13.cpp(125,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Console 13.vcxproj -> D:\Console 13\x64\Debug\Console 13.exe
