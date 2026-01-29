@@ -1,0 +1,3 @@
+﻿  Console 22.cpp
+D:\Console 22\Console 22\Console 22.cpp(139,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Console 22.vcxproj -> D:\Console 22\x64\Debug\Console 22.exe
